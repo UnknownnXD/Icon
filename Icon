@@ -13,7 +13,7 @@
   },
   {
     "name": "TMDb",
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tmdb.new.logo.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tmdb.new.logo.svg/960px-Tmdb.new.logo.svg.png"
   },
   {
     "name": "Letterboxd",
@@ -21,10 +21,10 @@
   },
   {
     "name": "Popcorn Rating",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Rotten_Tomatoes_positive_audience.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rotten_Tomatoes_positive_audience.svg/512px-Rotten_Tomatoes_positive_audience.svg.png"
   },
   {
     "name": "Trakt",
-    "url": "https://icon-icons.com/icons/trakt-tv/21651"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Trakt.tv-favicon.svg/512px-Trakt.tv-favicon.svg.png"
   }
 ]
